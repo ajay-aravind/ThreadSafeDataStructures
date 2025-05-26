@@ -1,0 +1,14 @@
+Q:\repos\ThreadSafeDS\ThreadSafeDS\bin\Debug\net8.0\ThreadSafeDS.exe
+Q:\repos\ThreadSafeDS\ThreadSafeDS\bin\Debug\net8.0\ThreadSafeDS.deps.json
+Q:\repos\ThreadSafeDS\ThreadSafeDS\bin\Debug\net8.0\ThreadSafeDS.runtimeconfig.json
+Q:\repos\ThreadSafeDS\ThreadSafeDS\bin\Debug\net8.0\ThreadSafeDS.dll
+Q:\repos\ThreadSafeDS\ThreadSafeDS\bin\Debug\net8.0\ThreadSafeDS.pdb
+Q:\repos\ThreadSafeDS\ThreadSafeDS\obj\Debug\net8.0\ThreadSafeDS.GeneratedMSBuildEditorConfig.editorconfig
+Q:\repos\ThreadSafeDS\ThreadSafeDS\obj\Debug\net8.0\ThreadSafeDS.AssemblyInfoInputs.cache
+Q:\repos\ThreadSafeDS\ThreadSafeDS\obj\Debug\net8.0\ThreadSafeDS.AssemblyInfo.cs
+Q:\repos\ThreadSafeDS\ThreadSafeDS\obj\Debug\net8.0\ThreadSafeDS.csproj.CoreCompileInputs.cache
+Q:\repos\ThreadSafeDS\ThreadSafeDS\obj\Debug\net8.0\ThreadSafeDS.dll
+Q:\repos\ThreadSafeDS\ThreadSafeDS\obj\Debug\net8.0\refint\ThreadSafeDS.dll
+Q:\repos\ThreadSafeDS\ThreadSafeDS\obj\Debug\net8.0\ThreadSafeDS.pdb
+Q:\repos\ThreadSafeDS\ThreadSafeDS\obj\Debug\net8.0\ThreadSafeDS.genruntimeconfig.cache
+Q:\repos\ThreadSafeDS\ThreadSafeDS\obj\Debug\net8.0\ref\ThreadSafeDS.dll
